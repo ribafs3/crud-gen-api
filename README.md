@@ -9,7 +9,7 @@ composer create-project laravel/laravel:10.* api
 
 cd api
 
-wget https://ribamar.net.br/down/laravel/commands/crud-gen-api.zip
+wget https://github.com/ribafs3/crud-gen-api/raw/refs/heads/main/crud-gen-api.zip
 
 unzip crud-gen-api.zip
 ```
